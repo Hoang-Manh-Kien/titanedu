@@ -656,6 +656,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top:20px;
 }
 
 .widget-wrap-2 {
@@ -780,7 +781,7 @@ ol li:before {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0 5px 10px 5px;
+    margin: 20px 5px 10px 5px;
 }
 
 .registerclass input{
